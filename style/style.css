@@ -19,14 +19,13 @@
     font-size: 35px;
 }
 
-hr {
+hr{
     opacity: .4;
 }
 
 .banner-container {
-    background-image: url("/images/donation0.jpg");
-
-    background-blend-mode: overlay;
+   background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.7)), url(../images/donation1.jpg);
+    
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -223,3 +222,11 @@ footer h1{
     font-family: 'Lobster', cursive;
     color: orangered;
 }
+
+/* echo "# new-folder" >> README.md
+git init
+git add README.md
+
+
+
+ */
