@@ -46,10 +46,12 @@
 .our-donate-plane {
     padding-top: 25px;
     background-color: rgba(10, 12, 10, 0.626);
+    
 }
 
 .our-donate-plane>p {
     width: 80%;
+    
     text-align: center;
 }
 
@@ -79,7 +81,9 @@
     font-size: 2rem;
 }
 
-.lives-container img {}
+.lives-container img {
+    margin:20px ;
+}
 
 .update-container {
     padding: 2%;
